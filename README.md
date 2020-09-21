@@ -2,6 +2,8 @@
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
 
+If you want to build something together, feel free to email me at - nakshatradsu@gmail.com :)
+
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
 Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align="top"> to view the **Jupyter notebook** in Google Colab:
@@ -14,7 +16,7 @@ Click <img src="https://colab.research.google.com/assets/colab-badge.svg" align=
 4 | [Real Time Age Prediction with UTKfaces Dataset Using Pretrained Resnet50 Model and Ktrain](https://github.com/nakshatrasinghh/Deep-Learning/blob/master/Real_Time_Age_Prediction_using_RESNET_50.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Deep-Learning/blob/master/Real_Time_Age_Prediction_using_RESNET_50.ipynb)
 
 # Message Me
-Click on the icon to personally message me on Whatsapp for future collaborations or projects :)
+Feel free to click on the icon to personally message me on Whatsapp if you have any doubt regarding the notebooks :)
 </a>
 <a href="https://wa.link/8bt67v">
   <img align="left" alt="Nakshatra's Whatsapp" width="30px" src="https://image.flaticon.com/icons/svg/785/785767.svg" />
